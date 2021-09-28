@@ -1,2 +1,2 @@
-Imprime el nombre de la ruta absoluta del directorio de trabajo actual
+./0-current_working_directory
 # javybush-holberton-system_engineering-devops
